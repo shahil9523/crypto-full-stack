@@ -1,0 +1,6 @@
+[
+  { "id": "ETH", "price": 10953.4, "exc": "Binance" },
+  { "id": "ETH", "price": 11954, "exc": "Ftx" },
+  { "id": "ETH", "price": 13520.7, "exc": "Gemini" },
+  { "id": "ETH", "price": 14953.8, "exc": "Coinbase" }
+]
